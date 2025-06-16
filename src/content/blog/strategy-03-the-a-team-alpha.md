@@ -2,7 +2,7 @@
 title: 'The A-Team (alpha)'
 description: 'How I began assembling my own A-Team at IBM—driven by intuition, strategy, and the belief that standout talent changes everything.'
 pubDate: '29 Mar 2025 10:52:36 GMT'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/strategy-03-service-engage.jpg'
 ---
 
 Let me start with a quote from Steve Jobs:

@@ -2,7 +2,7 @@
 title: 'Strategy by design'
 description: 'How IBM DesignCamp and a motivational talk shaped my view of transformation and fundamentally shifted my career.'
 pubDate: '29 Mar 2025 12:46:19 GMT'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/strategy-06-ibm-design.jpg'
 ---
 
 So the Tivoli SaaS app was a big success, I had presented it to 5,000 humans at the MGM Grand in Vegas (!) but I was a bit burnt out. So when [Robert LeBlanc](https://www.linkedin.com/in/robert-leblanc-0b4b0485/) sent me and the team down to Austin, Texas for IBM Designcamp for Product teams it was fine by me because 1) it seemed like a nice little work vacation, and 2) Austin has way better Mexican food than my home of Raleigh, NC. So, wheels up to Austin. ✈️

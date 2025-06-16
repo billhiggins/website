@@ -2,7 +2,7 @@
 title: 'Quality duct tape'
 description: 'How a memorable phone call changed my career—kicking off a high-stakes SaaS transformation at IBM backed by top leadership and a great team.'
 pubDate: '29 Mar 2025 11:08:30 GMT'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/strategy-04-service-engage.jpg'
 ---
 
 In our last episode, we discussed what for me was the first element of applied good strategy: building an A-Team. So by 2013 I had a great but small A-Team and we working on DevOps-y stuff in IBM’s Tivoli division. And then I got an important phone call.
@@ -14,3 +14,5 @@ I told my wife “It’s Dave Lindquist” and she said “Answer it!” So I an
 One month, and one amazing baby later, Dave and I had established the scope of the project, and staffed it with the A-Team I mentioned in the last post, and we started … thinking different, to borrow a phrase.
 
 The first thing was that Dave, and the management above Dave (Chris O’Connor and Deepak Advani), explicitly wanted our team to change the culture of the Tivoli division from on prem and waterfall to agile and devops. So we had the best possible air cover to take calculated risks. So the first thing we decided was that we would build the application on the then-new IBM BlueMix PaaS environment (these days part of IBM Cloud). One problem: It was in an alpha state and because of that, it was pretty unstable, which [led to a lot of stress](../strategy-05-innovation-under-fire/) …
+
+Image: Early Whitewater team
