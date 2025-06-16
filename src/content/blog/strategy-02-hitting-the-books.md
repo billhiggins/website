@@ -2,7 +2,7 @@
 title: 'Hitting the books'
 description: 'How I began learning strategy in 2010: starting with business memoirs, then building a theoretical foundation from classic strategy texts.'
 pubDate: '29 Mar 2025 10:32:59 GMT'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/strategy-02-hitting-the-books.jpg'
 ---
 
 There was no ChatGPT in 2010, so I started with a literal Google search:
