@@ -2,7 +2,7 @@
 title: 'The whole-team approach'
 description: 'How the whole-team approach reframed my view of collaboration—uniting disciplines across IBM through trust, shared tools, and a rafting metaphor.'
 pubDate: '29 Mar 2025 13:05:56 GMT'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../../public/images/strategy-07/whitewater-rafting.jpg'
 ---
 
 I’ve had the good fortune to have some amazing mentors in my career, and one of the best has been [John Allspaw](https://www.linkedin.com/in/jallspaw/). I remember meeting with John at Etsy headquarters in 2014 or so, and him explaining the concept of “DevOps” to me like this (warning: gross oversimplification of what John actually said):
@@ -19,4 +19,4 @@ We called this “the whole-team approach” and Charlie used a visual metaphor 
 
 But how to get disciplines to work better together? One of our problems at the time was that different disciplines used different tools, which was like the digital equivalent of working in different buildings. So we formed a hypothesis that better collaboration tools could create the conditions for better interdisciplinary collaboration. That’s the next story: [Project Whitewater](../strategy-08-project-whitewater/) …
 
-![Rafting team metaphor](/astro/images/strategy-07/whitewater-rafting.jpg)
+Image: Whitewater Rafting team metaphor
