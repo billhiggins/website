@@ -2,7 +2,7 @@
 title: 'It turns out transformation is hard'
 description: 'How a surge in Slack and GitHub use at IBM nearly broke everything—and taught me to recognize strategic inflection points.'
 pubDate: '29 Mar 2025 20:39:28 GMT'
-heroImage: '../../../public/images/strategy-09/16th-century-german-printing-press.webp'
+heroImage: '../../assets/strategy-09-16th-century-german-printing-press.webp'
 ---
 
 When we started the Whitewater project in 2015, we explicitly asked IBM CIO senior leadership NOT to mandate the tools like GitHub and Slack, because we wanted their adoption to be organic, such that when people didn’t adopt, we’d get good feedback on how to make the adoption or migration experience easier and more delightful. We got to about 10,000 users for GitHub/Slack and then something interesting happened … [Arvind Krishna](https://www.linkedin.com/in/arvindkrishna/) took notice.

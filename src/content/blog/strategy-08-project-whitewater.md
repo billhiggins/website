@@ -2,7 +2,7 @@
 title: 'Project Whitewater'
 description: 'How a vision for digital serendipity inspired Project Whitewater—IBM’s bold push to unify collaboration with tools like Slack and GitHub.'
 pubDate: '29 Mar 2025 15:48:51 GMT'
-heroImage: '../../../public/images/strategy-08/original-whitewater-whiteboard.jpg'
+heroImage: '../../assets/strategy-08-original-whitewater-whiteboard.jpg'
 ---
 
 In the previous post, I described my realization that to possibly build something great required amazing collaboration across all disciplines: product management, design, engineering, sales, marketing, support, etc. etc. etc.
