@@ -17,6 +17,6 @@ But as [Charlie Hill](https://www.linkedin.com/in/charliehill/) and I worked thr
 
 We called this “the whole-team approach” and Charlie used a visual metaphor of a whitewater rafting team to make the point … you’re navigating a treacherous environment, and you succeed or fail as a team. This metaphor really resonated with people.
 
-But how to get disciplines to work better together? One of our problems at the time was that different disciplines used different tools, which was like the digital equivalent of working in different buildings. So we formed a hypothesis that better collaboration tools could create the conditions for better interdisciplinary collaboration. That’s the next story: Project Whitewater https://lnkd.in/eSKiYJKz
+But how to get disciplines to work better together? One of our problems at the time was that different disciplines used different tools, which was like the digital equivalent of working in different buildings. So we formed a hypothesis that better collaboration tools could create the conditions for better interdisciplinary collaboration. That’s the next story: [Project Whitewater](../strategy-08-project-whitewater/) …
 
 ![Rafting team metaphor](/astro/images/strategy-07/whitewater-rafting.jpg)
