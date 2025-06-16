@@ -23,6 +23,4 @@ Then, a few years into my study, a couple of excellent theoretical books were pu
 
 These books helped me put the applied strategy stories of Welch / Gerstner / Jobs into a theoretical framework, which I believe is a requirement to then produce something new, i.e., my own strategies.
 
-But it was not all theoretical; by 2012 I started putting in place some initial applied elements, inspired (in this case) by Steve Jobs (though he did not use this term): The A-Team.
-
-More on that in my next post: “The A-Team (alpha)” https://lnkd.in/eQQQAM6V
+But it was not all theoretical; by 2012 I started putting in place some initial applied elements, inspired (in this case) by Steve Jobs (though he did not use this term): [The A-Team](../strategy-03-the-a-team-alpha/) …

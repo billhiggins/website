@@ -13,6 +13,4 @@ I told my wife “It’s Dave Lindquist” and she said “Answer it!” So I an
 
 One month, and one amazing baby later, Dave and I had established the scope of the project, and staffed it with the A-Team I mentioned in the last post, and we started … thinking different, to borrow a phrase.
 
-The first thing was that Dave, and the management above Dave (Chris O’Connor and Deepak Advani), explicitly wanted our team to change the culture of the Tivoli division from on prem and waterfall to agile and devops. So we had the best possible air cover to take calculated risks. So the first thing we decided was that we would build the application on the then-new IBM BlueMix PaaS environment (these days part of IBM Cloud). One problem: It was in an alpha state and because of that, it was pretty unstable. 😅
-
-Out of characters, story continues in next post: https://lnkd.in/ewWvY_7b
+The first thing was that Dave, and the management above Dave (Chris O’Connor and Deepak Advani), explicitly wanted our team to change the culture of the Tivoli division from on prem and waterfall to agile and devops. So we had the best possible air cover to take calculated risks. So the first thing we decided was that we would build the application on the then-new IBM BlueMix PaaS environment (these days part of IBM Cloud). One problem: It was in an alpha state and because of that, it was pretty unstable, which [led to a lot of stress](../strategy-05-innovation-under-fire/) …

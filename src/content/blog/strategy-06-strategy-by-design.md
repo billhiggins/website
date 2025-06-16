@@ -19,4 +19,4 @@ Now, please understand this point: Learning from Phil Gilbert about transformati
 
 On this last point, like most big things, the mission of IBM Design was simple to state, very hard to do: Creating, in IBM, a sustainable culture of design. And in order to achieve that mission, we had to deliver incremental and iterative outcomes that were good for IBM customers and good for IBM revenue and cash flow.
 
-I also came to understand that my concept of DevOps (dev and ops working harmoniously together) had to become much broader. So Charlie and I developed what we called “the whole-team approach” which is the topic for our next episode … https://lnkd.in/eURVp6_z
+I also came to understand that my concept of DevOps (dev and ops working harmoniously together) had to become much broader. So Charlie and I developed what we called “[the whole-team approach](../strategy-07-the-whole-team-approach/)” …

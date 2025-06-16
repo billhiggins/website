@@ -21,6 +21,4 @@ But, as Conan the Barbarian once said, “That which does not kill us makes us s
 - I can’t code my way out of a bad strategy.
 - I can’t blindly trust others to be in charge of strategy; I better own it or at least have significant input into it.
 
-So I decided to immerse myself in studying strategy, which ended up occupying most of the 2010s.
-
-(LinkedIn tells me I am out of characters; stream of consciousness continues in post 2 of n: “Hitting the books” https://lnkd.in/ecFxyuDA).
+So I decided to immerse myself in studying strategy, which ended up occupying most of the 2010s. I started by [hitting the books](../strategy-02-hitting-the-books/) …

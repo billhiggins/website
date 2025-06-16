@@ -23,4 +23,4 @@ I started keeping my eyes open for “special developers” where “special” 
 
 So I worked with my IBM management to bring them to my team and, if memory serves, we were working on DevOps-y stuff for early 2010s IBM private cloud infrastructure, until one day in June 2013 I got a phone call that would change the course of my career.
 
-But that’s a story for the next post: “Quality duct tape” https://lnkd.in/eHVSHCja
+But that’s a story for the next post: “[Quality duct tape](../strategy-04-quality-duct-tape/)” …
