@@ -2,7 +2,7 @@
 title: 'My superhero origin story'
 description: 'A personal turning point: when success didn’t match the vision, I turned to strategy to shape the future, not just build it.'
 pubDate: '29 Mar 2025 10:26:21 GMT'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/blog-placeholder-2.jpg'
 ---
 
 From 2005 to 2010 I worked in IBM’s Rational division on a collaborative software development product called “Rational Team Concert.” Many of you reading this will say “I never heard of it!” and … well … yeah. Don’t get me wrong—it made a lot of money! I remember when I was putting together my IBM Distinguished Engineer (DE) package in the mid-2010s, I researched how much money it made and I was like: 1) wow, that’s a lot of money, and 2) hey, how come I didn’t see more of that?! But I digress.

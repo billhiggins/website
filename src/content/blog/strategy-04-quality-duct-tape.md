@@ -2,7 +2,7 @@
 title: 'Quality duct tape'
 description: 'How a memorable phone call changed my career—kicking off a high-stakes SaaS transformation at IBM backed by top leadership and a great team.'
 pubDate: '29 Mar 2025 11:08:30 GMT'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
 
 In our last episode, we discussed what for me was the first element of applied good strategy: building an A-Team. So by 2013 I had a great but small A-Team and we working on DevOps-y stuff in IBM’s Tivoli division. And then I got an important phone call.

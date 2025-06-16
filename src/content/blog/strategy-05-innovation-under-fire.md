@@ -2,7 +2,7 @@
 title: 'Innovation under fire'
 description: 'How my A-Team at IBM kept our app online during Bluemix outages—and how that innovation under pressure changed my career path.'
 pubDate: '29 Mar 2025 11:23:29 GMT'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/blog-placeholder-2.jpg'
 ---
 
 OK … so in our last episode, we had the small but mighty A-Team, we had the mission and the executive air cover to create a SaaS portal for IBM’s Tivoli division, and we had made the important but risky decision to build on IBM’s nascent, alpha PaaS Bluemix. This is where having the A-Team really started to pay off.
